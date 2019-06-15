@@ -1,2 +1,2 @@
 # C-workshop
-(Tetris; Fractals; image proccesing)
+Tetris; Fractals; image proccesing
