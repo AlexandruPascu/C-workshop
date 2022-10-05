@@ -1,2 +1,2 @@
 # C-workshop
-Tetris; Fractals; image proccesing
+Tetris; Upgraded Tic Tac Toe; Fractals; Image Proccesing
